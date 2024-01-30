@@ -1,1 +1,1 @@
-# my-javascript-journey
+# Documenting my  Javascript Journey
